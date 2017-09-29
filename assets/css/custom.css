@@ -1,0 +1,109 @@
+#Welcome ul li h3
+{
+	text-align: left;
+	font-size: 20px;
+}
+#Welcome ul li p
+{
+	text-align: left;
+	font-size: 18px;
+	line-height: 20px;
+	padding-top: 10px;
+}
+
+#Welcome ul li ul li h3
+{
+	text-align: left;
+	font-size: 15px;
+	padding-left: 40px;
+	padding-top: 15px;
+}
+#Welcome ul li ul li ul li
+{
+	text-align: left;
+	font-size: 15px;
+	line-height: 20px;
+	padding-left: 60px;
+	padding-top: 5px;
+}
+#Welcome ul li ul li ul li i
+{
+	padding-right: 10px;
+}
+#Education h5
+{
+	font-size: 20px;
+}
+#Education h6
+{
+	font-size: 17px;
+}
+#Education li
+{
+	font-size: 16px;
+}
+
+#Education p
+{
+	font-size: 17px;
+}
+
+
+#Awards li
+{
+	margin-left: 40px;
+	text-align: left;
+	font-size: 20px;
+}
+
+
+#ResearchAndProjects ul
+{
+	padding-bottom: 20px;
+	
+	padding-left: 40px;
+}
+
+#ResearchAndProjects ul li
+{
+
+	text-align: left;
+}
+#ResearchAndProjects ul li h5
+{
+	font-size: 20px;
+}
+#ResearchAndProjects ul li h6
+{
+	font-size: 15px;
+}
+
+#ResearchAndProjects ul li p
+{
+	font-size: 15px;
+	line-height: 20px;
+	padding-top: 8px;
+}
+#ResearchAndProjects ul li b
+{
+	font-weight: bold;
+}
+
+#Contact table
+{
+	margin-left: 80px;
+	margin-top: 40px;
+}
+
+#Contact table tr
+{
+		
+}
+
+
+#Contact table tr td
+{
+	text-align: left;
+	line-height: 20px;
+	padding-top: 45px;
+}
