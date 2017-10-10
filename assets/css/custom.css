@@ -6,22 +6,31 @@
 #Welcome ul li p
 {
 	text-align: left;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 20px;
 	padding-top: 10px;
 }
 
+
+#Welcome  ul .Activities  ul li
+{
+	text-align: left;
+	font-size: 17px;
+	line-height: 20px;
+	
+	padding-top: 5px;
+}
 #Welcome ul li ul li h3
 {
 	text-align: left;
-	font-size: 15px;
+	font-size: 17px;
 	padding-left: 40px;
 	padding-top: 15px;
 }
 #Welcome ul li ul li ul li
 {
 	text-align: left;
-	font-size: 15px;
+	font-size: 17px;
 	line-height: 20px;
 	padding-left: 60px;
 	padding-top: 5px;
@@ -30,6 +39,60 @@
 {
 	padding-right: 10px;
 }
+
+
+
+#Experience ul li h3
+{
+	text-align: left;
+	font-size: 20px;
+}
+#Experience ul li p
+{
+	text-align: left;
+	font-size: 18px;
+	line-height: 20px;
+	padding-top: 10px;
+}
+
+
+#Experience ul .Activities  ul li
+{
+	text-align: left;
+	font-size: 15px;
+	line-height: 20px;
+	padding-left: 60px;
+	padding-top: 5px;
+}
+#Experience ul li ul li h3
+{
+	text-align: left;
+	font-size: 20px;
+	padding-left: 40px;
+	padding-top: 15px;
+}
+#Experience ul li ul li ul li
+{
+	text-align: left;
+	font-size: 17px;
+	line-height: 20px;
+	padding-left: 60px;
+	padding-top: 5px;
+}
+#Experience ul li ul li .exp-research
+{
+	text-align: left;
+	font-size: 17px;
+	line-height: 20px;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+
+#Experience ul li ul li ul li i
+{
+	padding-right: 10px;
+}
+
 #Education h5
 {
 	font-size: 20px;
