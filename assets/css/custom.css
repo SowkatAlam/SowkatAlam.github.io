@@ -111,6 +111,13 @@
 	font-size: 17px;
 }
 
+#ProgrammingProblems li
+{
+	margin-left: 40px;
+	text-align: left;
+	font-size: 17px;
+	color: #009900;
+}
 
 #Awards li
 {
